@@ -44,9 +44,9 @@
 </p>
 
 ### I'm listening to:
-  <p align="center">
+
 [![Spotify](https://novatorem-martina-lp.vercel.app/api/spotify)](https://open.spotify.com/user/31n46nhox53vw2ufg2xvzaqqnlwu)
-</p>
+
 ---
 
 [linkedin]: https://linkedin.com/in/martinalaporta
