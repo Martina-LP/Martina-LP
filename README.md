@@ -37,14 +37,15 @@
 <img alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
 </p>
 
-<br />
-<br />
-
 ### My Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martina-LP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img src="https://github-readme-stats.vercel.app/api?username=Martina-LP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
+
+### I'm listening to:
+
+[![Spotify](https://novatorem-martina-lp.vercel.app/api/spotify)](https://open.spotify.com/user/31n46nhox53vw2ufg2xvzaqqnlwu)
 
 ---
 
