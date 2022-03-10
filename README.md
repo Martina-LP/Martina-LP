@@ -1,12 +1,15 @@
 # Hi there, I'm Martina, welcome to my GitHub 👋 
 
+<p align="center">
 ## I'm a Full Stack Web Developer 👩‍💻
 
 - 🌱 I’m currently learning Python 🐍
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2022 Goals: Learn more programming languages (mainly C and Java)
 - ⚡ Fun facts: I love to write and I'm a TV series addicted
+</p>
 
+<p align="center">
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/martinalaporta#gh-light-mode-only)
@@ -17,9 +20,11 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/martinalaporta.dev_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/martinalaporta.dev_#gh-dark-mode-only)
+</p>
 
+<p align="center">
 ### Languages and Tools:
-<p align="left">
+
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -37,15 +42,18 @@
 <img alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
 </p>
 
-### My Stats:
 <p align="center">
+### My Stats:
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martina-LP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img src="https://github-readme-stats.vercel.app/api?username=Martina-LP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-### I'm listening:
+<p align="center">
+### I'm listening to:
+  
 [![Spotify](https://novatorem-martina-lp.vercel.app/api/spotify)](https://open.spotify.com/user/31n46nhox53vw2ufg2xvzaqqnlwu)
-
+</p>
 ---
 
 [linkedin]: https://linkedin.com/in/martinalaporta
