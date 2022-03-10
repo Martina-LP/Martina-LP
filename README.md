@@ -42,7 +42,8 @@
 
 ### My Stats:
 <p align="center">
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martina-LP&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martina-LP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api?username=Martina-LP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
 ---
