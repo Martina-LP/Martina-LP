@@ -42,7 +42,7 @@
 
 ### My Stats:
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martina-LP&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martina-LP&theme=radical)
 </p>
 
 ---
