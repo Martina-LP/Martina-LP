@@ -46,6 +46,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Martina-LP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
+[![Spotify](https://novatorem-martina-lp.vercel.app/api/spotify)](https://open.spotify.com/user/31n46nhox53vw2ufg2xvzaqqnlwu)
+
 ---
 
 [linkedin]: https://linkedin.com/in/martinalaporta
