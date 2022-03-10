@@ -40,6 +40,11 @@
 <br />
 <br />
 
+### My Stats:
+<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martina-LP&theme=radical)
+</p>
+
 ---
 
 [linkedin]: https://linkedin.com/in/martinalaporta
