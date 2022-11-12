@@ -2,9 +2,9 @@
 
 ## I'm a Full Stack Web Developer 👩‍💻
 
-- 🌱 I’m currently learning C# #️⃣ and Python 🐍
-- 👯 I’m looking to collaborate with other web developers
-- 🥅 2022 Goals: Learn more programming languages (mainly C and Java)
+- 🌱 I’m currently learning Node and React
+- 👯 I’m eager to collaborate with other web developers
+- 🥅 2022 Goals: Learn more programming languages (mainly Python and Java)
 - ⚡ Fun facts: I love to write and I'm a TV series addicted
 
 ### Connect with me:
@@ -25,8 +25,11 @@
 <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
+<img alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/tailwind-original.svg" style="padding-right:10px;" />
 <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/reactjs-original.svg" style="padding-right:10px;" />
 <img alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+<img alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/nodejs-original.svg" style="padding-right:10px;" />
 <img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
 <img alt="JQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
