@@ -25,11 +25,11 @@
 <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/tailwind-original.svg" style="padding-right:10px;" />
+<img alt="Tailwind" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/reactjs-original.svg" style="padding-right:10px;" />
+<img alt="ReactJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="padding-right:10px;" />
 <img alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-<img alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/nodejs-original.svg" style="padding-right:10px;" />
+<img alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
 <img alt="JQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
