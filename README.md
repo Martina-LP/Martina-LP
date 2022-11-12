@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Web Developer 👩‍💻
 
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning C# #️⃣ and Python 🐍
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2022 Goals: Learn more programming languages (mainly C and Java)
 - ⚡ Fun facts: I love to write and I'm a TV series addicted
