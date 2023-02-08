@@ -27,6 +27,7 @@
 <img alt="Tailwind" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img alt="ReactJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="padding-right:10px;" />
+<img alt="Next" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img alt="Vuetify" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" style="padding-right:10px;" />
 <img alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
