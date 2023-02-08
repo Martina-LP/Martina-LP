@@ -34,6 +34,8 @@
 <img alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="padding-right:10px;" />
 <img alt="ThreeJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" style="padding-right:10px;" />
 <img alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+</p>
+<p align="left">
 <img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
 <img alt="JQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
